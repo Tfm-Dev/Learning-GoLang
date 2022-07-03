@@ -9,7 +9,7 @@ This is a repository of the GoLang learning path, with simple exercises for sett
 - [X] Variable & Data Type
 - [X] Assignment Expression & Implicit vs Explicit
 - [X] fmt
-- [ ] Console Input & Type Conversion
+- [X] Console Input & Type Conversion
 - [ ] Arithmetic Operators & Math
 - [ ] Conditions & Boolean Expressions
 - [ ] Chained Conditionals
