@@ -6,8 +6,8 @@ This is a repository of the GoLang learning path, with simple exercises for sett
 
 ## Task
 
-- [ ] Variable & Data Type
-- [ ] Assignment Expression & Implicit vs Explicit
+- [X] Variable & Data Type
+- [X] Assignment Expression & Implicit vs Explicit
 - [ ] fmt
 - [ ] Console Input & Type Conversion
 - [ ] Arithmetic Operators & Math
